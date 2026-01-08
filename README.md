@@ -10,7 +10,7 @@ A modern desktop calculator built with Python & Tkinter.
 - Custom window icon
 
 ## 🖥️ Screenshot
-![Calculator UI](screenshot.png)
+![Calculator UI](zc.png)
 
 ## 🚀 How to Run
 ```bash
