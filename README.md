@@ -1,5 +1,5 @@
 # zofia-calculator
-This Calculator is BTS style for my love.
+
 A modern desktop calculator built with Python & Tkinter.
 
 ## ✨ Features
