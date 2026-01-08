@@ -179,7 +179,12 @@ class Calculator(tk.Tk):
     def calculate(self):
         try:
             result = eval(self.expression)
+            if result == float('inf') or result == float('-inf'):
+                raise ZeroDivisionError
             self.expression = str(result)
+        except ZeroDivisionError:
+            self.display.insert(0, "Cannot divide by 0")
+            self.expression = ""
             self.display.delete(0, tk.END)
             self.display.insert(tk.END, str(result))
             self.expr_label.config(text="")
@@ -208,3 +213,4 @@ if __name__ == "__main__":
     app = Calculator()
 
     app.mainloop()
+
