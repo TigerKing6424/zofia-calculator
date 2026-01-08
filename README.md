@@ -16,7 +16,7 @@ A modern desktop calculator built with Python & Tkinter.
 - Windows 10 / 11 (64-bit)
 
 ## 🚀 Download
-Go to **Releases** and download the latest `.exe`.
+Go to **Releases** and download the latest `.exe` and `.dll`.(Both have working it)
 
 ## 🛠 Built With
 - Python 3.10
