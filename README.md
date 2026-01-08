@@ -12,6 +12,20 @@ A modern desktop calculator built with Python & Tkinter.
 ## 🖥️ Screenshot
 ![Calculator UI](asset/screenshot.png)
 
+## 🖥 Requirements
+- Windows 10 / 11 (64-bit)
+
+## 🚀 Download
+Go to **Releases** and download the latest `.exe`.
+
+## 🛠 Built With
+- Python 3.10
+- Tkinter
+- PyInstaller / Nuitka
+
+## 📜 License
+MIT License
+
 ## 🚀 How to Run
 ```bash
 python main.py
