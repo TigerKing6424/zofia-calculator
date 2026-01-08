@@ -12,8 +12,8 @@ class Calculator(tk.Tk):
         self.configure(bg="#2c2f33")
 
         # Icon
-        self.iconbitmap("bts.ico")
-        self.icon = tk.PhotoImage(file="bts.png")
+        self.iconbitmap("zc.ico")
+        self.icon = tk.PhotoImage(file="zc.png")
         self.iconphoto(False, self.icon)
 
         # State
@@ -206,4 +206,5 @@ class Calculator(tk.Tk):
 
 if __name__ == "__main__":
     app = Calculator()
+
     app.mainloop()
