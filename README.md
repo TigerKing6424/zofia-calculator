@@ -1,13 +1,16 @@
 # zofia-calculator
 
-A modern desktop calculator built with Python & Tkinter.
+Zofia Calculator is a modern Python calculator application for Windows.
+It features a clean UI, keyboard input, animated results, and error handling.
 
 ## ✨ Features
 - Rounded buttons
 - Keyboard support (Enter, Backspace)
 - Result slide animation
 - Error shake animation
+- Animated calculation results
 - Custom window icon
+- Built with Python (Tkinter)
 
 ## 🖥️ Screenshot
 ![Calculator UI](asset/screenshot.png)
@@ -17,6 +20,9 @@ A modern desktop calculator built with Python & Tkinter.
 
 ## 🚀 Download
 Go to **Releases** and download the latest `.exe` and `.dll`.(Both have working it)
+
+## Keywords
+Zofia Calculator, Python calculator, Windows calculator app, Tkinter calculator
 
 ## 🛠 Built With
 - Python 3.10
