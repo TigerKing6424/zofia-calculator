@@ -19,7 +19,7 @@ It features a clean UI, keyboard input, animated results, and error handling.
 - Windows 10 / 11 (64-bit)
 
 ## 🚀 Download
-Go to **Releases** and download the latest `.exe` and `.dll`.(Both have working it)
+You can download the Windows installer from the **Releases** section.
 
 ## Keywords
 Zofia Calculator, Python calculator, Windows calculator app, Tkinter calculator
